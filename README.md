@@ -1,4 +1,3 @@
-metadata
 title: Llm Github
 emoji: 🚀
 colorFrom: blue
